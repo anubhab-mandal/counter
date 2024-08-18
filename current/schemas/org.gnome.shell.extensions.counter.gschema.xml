@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.counter" path="/org/gnome/shell/extensions/counter/">
+    <key name="alignment" type="s">
+      <default>'left'</default>
+      <summary>Alignment of the counter indicator</summary>
+      <description>Specify the alignment of the counter indicator: left, center, or right</description>
+    </key>
+    <key name="index" type="i">
+      <default>1</default>
+      <summary>Index of the counter indicator</summary>
+      <description>Specify the index of the counter indicator (1-10)</description>
+    </key>
+    <key name="label-format" type="s">
+      <default>'COUNT: $count'</default>
+      <summary>Label format for the counter</summary>
+      <description>Specify the label format for the counter. Use $count to insert the counter value.</description>
+    </key>
+  </schema>
+</schemalist>

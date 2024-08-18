@@ -1,0 +1,11 @@
+{
+    "name": "counter",
+    "description": "adds persistent counter to top bar. left click counter +1, right click counter -1, and middle click resets counter to 0. change name, alignment and index and remember to log out and log back in to view your changes made to name, alignment and index.",
+    "shell-version": ["45", "46", "47"],
+    "url": "https://github.com/anubhab-mandal/counter",
+    "uuid": "counter@anubhab",
+    "settings-schema": "org.gnome.shell.extensions.counter",
+    "prefs" : "prefs.js",
+    "version": 8
+}
+
