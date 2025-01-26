@@ -20,4 +20,4 @@ For GNOME 45 or more,
 4. ALT+F2 and hit 'r' and enter, if you are on X11; else if wayland or something else, just log out and log back in.
 5. `gnome-extensions enable counter@anubhab`
 -------
--------
+
